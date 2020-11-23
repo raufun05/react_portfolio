@@ -1,7 +1,7 @@
 import React from "react";
-import Container from "../components/Container";
-import Row from "../components/Row";
-import Col from "../components/Col";
+import Container from "../components/container";
+import Row from "../components/row";
+import Col from "../components/column";
 
 function About() {
   return (

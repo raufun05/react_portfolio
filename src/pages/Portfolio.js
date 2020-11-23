@@ -1,7 +1,7 @@
 import React from "react";
-import Container from "../components/Container";
-import Row from "../components/Row";
-import Project from "../components/Projects";
+import Container from "../components/container";
+import Row from "../components/row";
+import Project from "../components/projects";
 // import testimage from "../thetestpath";
 
 function Portfolio() {
@@ -13,42 +13,42 @@ function Portfolio() {
             <h2>Portfolio</h2>
             <Row>
               <Project
-                name="Password Generator"
-                imgPath={require("../components/assets/images/pw-generator.png")}
-                linkDeployed="https://jenjch.github.io/passwordGenerator/"
-                linkGithub="https://github.com/jenjch/passwordGenerator"
+                name="Bill Boards"
+                imgPath={require("../images/billboard.png")}
+                linkDeployed="https://sleepy-eyrie-55325.herokuapp.com/"
+                linkGithub="https://github.com/vichrist/BillBoards"
               />
               <Project
                 name="Weather Dashboard"
-                imgPath={require("../components/assets/images/weather-app.PNG")}
-                linkDeployed="https://jenjch.github.io/WeatherDashboard/"
-                linkGithub="https://github.com/jenjch/WeatherDashboard"
+                imgPath={require("../images/weather.png")}
+                linkDeployed="https://raufun05.github.io/weather-dashboard/"
+                linkGithub="https://github.com/raufun05/weather-dashboard"
               />
               <Project
-                name="Movies & Groovies"
-                imgPath={require("../components/assets/images/movie-app.PNG")}
-                linkDeployed="https://jenjch.github.io/GroupProject1/"
-                linkGithub="https://github.com/jenjch/GroupProject1"
+                name="Eatda Burger"
+                imgPath={require("../images/burgerapp.png")}
+                linkDeployed="https://protected-lowlands-61580.herokuapp.com/"
+                linkGithub="https://github.com/raufun05/Node-Express-Handlebars"
               />
             </Row>
             <Row>
               <Project
                 name="Note Taker"
-                imgPath={require("../components/assets/images/note-taker2.PNG")}
-                linkDeployed="https://notetaker-5123534.herokuapp.com/"
-                linkGithub="https://github.com/jenjch/noteTaker"
+                imgPath={require("../images/note_taker.png")}
+                linkDeployed="https://serene-shelf-61975.herokuapp.com/"
+                linkGithub="https://github.com/raufun05/Note-Taker"
               />
               <Project
-                name="Banh Mi Log"
-                imgPath={require("../components/assets/images/banhMi2.jpg")}
-                linkDeployed="https://blooming-wildwood-86554.herokuapp.com/"
-                linkGithub="https://github.com/jenjch/banhMiLog"
+                name="Fitness Tracker"
+                imgPath={require("../images/fitness_tracker.png")}
+                linkDeployed="https://floating-dawn-36475.herokuapp.com/"
+                linkGithub="https://github.com/raufun05/workout-tracker"
               />
               <Project
-                name="Podcast Collection"
-                imgPath={require("../components/assets/images/podcast-app.jpeg")}
-                linkDeployed="https://project2-020420.herokuapp.com/"
-                linkGithub="https://github.com/jenjch/project2"
+                name="City Sidekick"
+                imgPath={require("../images/City_Sidekick.png")}
+                linkDeployed="https://johngarcia144.github.io/city-sidekick/"
+                linkGithub="https://github.com/johngarcia144/city-sidekick"
               />
             </Row>
           </div>
