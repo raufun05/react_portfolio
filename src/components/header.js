@@ -35,7 +35,7 @@ function Header() {
         </li>
         <a
           className="flex-sm-fill text-sm-center nav-link resume"
-          href={require("../images/jane-doe-resume.pdf")}
+          href={require("../images/Raufun_Resume.pdf")}
         //   onClick={() => window.open("../assets/images/jane-doe-resume.pdf")}
         //   href={Resume}
         // onClick={() => window.open(Resume)}
@@ -52,13 +52,13 @@ function Header() {
         </a>
         <a
           className="flex-sm-fill text-sm-center nav-link"
-          href="https://github.com/jenjch/"
+          href="https://github.com/raufun05/"
         // onClick={() => window.open("https://github.com/jenjch/")}
           target="_blank"
           rel="noopener noreferrer"
         >
           <img
-            src={require("../assets/images/GitHub-icon.png")}
+            src={require("../images/GitHub-icon.png")}
             alt="GitHub"
             height="25"
             width="25"
@@ -67,13 +67,13 @@ function Header() {
         </a>
         <a
           className="flex-sm-fill text-sm-center nav-link"
-          href="https://www.linkedin.com/"
+          href="https://www.linkedin.com/in/raufun-patoary-167a05198/"
         // onClick={() => window.open("https://www.linkedin.com/")}
           target="_blank"
           rel="noopener noreferrer"
         >
           <img
-            src={require("../assets/images/LI-In-Bug.png")}
+            src={require("../images/LI-In-Bug.png")}
             alt="Linkedin"
             height="24"
             width="29"
