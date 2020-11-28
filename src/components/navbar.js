@@ -2,9 +2,9 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
-function Header() {
+function Navbar() {
   return (
-    <nav className="nav nav-pills flex-column flex-sm-row col-sm-12 col-lg-9">
+    <nav className="nav nav-pills flex-column flex-sm-row col-sm-12 col-lg-8">
         <li className="flex-sm-fill text-sm-center">
           <NavLink
           exact
@@ -84,4 +84,4 @@ function Header() {
   );
 }
 
-export default Header;
+export default Navbar;

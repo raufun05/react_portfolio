@@ -14,7 +14,7 @@ function About() {
               <Column size="sm-12">
                 <img
                   className="img-fluid profile-pic float-left"
-                  src={require("../images/raufun_pic.jpg")}
+                  src={require("../images/raufun_pic.PNG")}
                   alt="my picture"
                 />
                 <div className="bio">
