@@ -1,7 +1,7 @@
 import React from "react";
 import Container from "../components/container";
 import Row from "../components/row";
-import Col from "../components/column";
+import Column from "../components/column";
 
 function About() {
   return (
@@ -11,7 +11,7 @@ function About() {
           <div className="col-md-12 midsection">
             <h2>About Me</h2>
             <Row>
-              <Col size="sm-12">
+              <Column size="sm-12">
                 <img
                   className="img-fluid profile-pic float-left"
                   src={require("../images/raufun_pic.jpg")}
@@ -37,7 +37,7 @@ function About() {
                   <h5><p>For more information, please check out my <a href="https://drive.google.com/file/d/1bTEKcezanFRbLTFCKqnSHii0WoCkNerb/view?usp=sharing" target="_blank">resume!</a></p></h5>
                                     
                 </div>
-              </Col>
+              </Column>
             </Row>
           </div>
         </Row>
