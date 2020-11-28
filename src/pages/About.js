@@ -14,8 +14,8 @@ function About() {
               <Col size="sm-12">
                 <img
                   className="img-fluid profile-pic float-left"
-                  src={require("../components/assets/images/pic-doggo.PNG")}
-                  alt="Me and doggo!"
+                  src={require("../images/raufun_pic.jpg")}
+                  alt="my picture"
                 />
                 <div className="bio">
                 <p>My name is Md Raufun Patoary. I am hard working and adaptable Full Stack Web Developer with a Certificate in Full Stack Web Development from Denver University. Main skills include HTML, CSS, JavaScript, jQuery, Ajax, and API. Enthusiastic about web development and possess the ability to learn quickly. Excited to leverage my ability to work both independently and as part of a team to develop game-changing websites and applications. Hands on experience in quality assurance and software testing of web-based applications and web service API testing to secure a position as software test engineer in a company where I can utilize my expertise knowledge and technical skills.</p>
