@@ -18,14 +18,10 @@ function About() {
                   alt="Me and doggo!"
                 />
                 <div className="bio">
-                  <p>
-                    Hello! I currently work in higher education. Many of my
-                    responsibilities revolve around managing vendor software and
-                    related processes. This translates to eternally needing to
-                    (effectively) coordinate the translation of business and
-                    technical needs to the desired end product (new process,
-                    interface, enhancement, etc.).
-                  </p>
+                <p>My name is Md Raufun Patoary. I am hard working and adaptable Full Stack Web Developer with a Certificate in Full Stack Web Development from Denver University. Main skills include HTML, CSS, JavaScript, jQuery, Ajax, and API. Enthusiastic about web development and possess the ability to learn quickly. Excited to leverage my ability to work both independently and as part of a team to develop game-changing websites and applications. Hands on experience in quality assurance and software testing of web-based applications and web service API testing to secure a position as software test engineer in a company where I can utilize my expertise knowledge and technical skills.</p>
+
+                <p>One of my favorite things to do is visiting new places specially mountain and sea beach. I also like to play soccer, Cricket, and swiming.</p>
+
                   <p>
                     I am a lifelong learner and always looking to expand my
                     knowledge and skill set. I decided to become a coding
@@ -38,11 +34,8 @@ function About() {
                     stakeholders to drive a project or process to the best
                     possible solutions.
                   </p>
-                  <p>
-                    In my spare time (if I’ll even have any while in the
-                    bootcamp), I enjoy traveling and eating my way through
-                    anywhere I travel to.
-                  </p>
+                  <h5><p>For more information, please check out my <a href="https://drive.google.com/file/d/1bTEKcezanFRbLTFCKqnSHii0WoCkNerb/view?usp=sharing" target="_blank">resume!</a></p></h5>
+                                    
                 </div>
               </Col>
             </Row>
