@@ -94,6 +94,17 @@ At a minimum, your portfolio should include the following:
 ### Updated LinkedIn Profile 
 
 Make sure to update your LinkedIn Profile with the new skills you've acquired since the last time it was updated.
+https://www.linkedin.com/in/raufun-patoary-167a05198/ 
+
+## Submission on BCS
+
+You are required to submit the following:
+
+* The URL of the deployed application
+ https://raufun05.github.io/react_portfolio/
+
+* The URL of the GitHub repository
+https://github.com/raufun05
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

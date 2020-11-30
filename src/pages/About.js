@@ -35,7 +35,7 @@ function About() {
                     stakeholders to drive a project or process to the best
                     possible solutions.
                   </p>
-                  <h5><p>For more information, please check out my <a href="https://drive.google.com/file/d/1bTEKcezanFRbLTFCKqnSHii0WoCkNerb/view?usp=sharing" target="_blank">resume!</a></p></h5>
+                  <h5><p>For more information, please check out my <a href="https://drive.google.com/file/d/18eStb9eHXU4vzl-WVBV2OdT6Vn624UGk/view?usp=sharing" target="_blank">resume!</a></p></h5>
                                     
                 </div>
               </Column>
