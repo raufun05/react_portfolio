@@ -2,6 +2,7 @@ import React from "react";
 import Container from "../components/container";
 import Row from "../components/row";
 import Column from "../components/column";
+import RaufunPic from "../images/raufun_pic.PNG";
 
 function About() {
   return (
@@ -14,7 +15,7 @@ function About() {
               <Column size="sm-12">
                 <img
                   className="img-fluid profile-pic float-left"
-                  src={require("../images/raufun_pic.PNG")}
+                  src={RaufunPic}
                   alt="my picture"
                 />
                 <div className="bio">

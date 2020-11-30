@@ -84,6 +84,8 @@ h2 {
   margin-top: 20px;
   margin-bottom: 10px;
   margin-right: 20px;
+  width: 290px;
+  height:260px;
 }
 
 .bio {
@@ -164,3 +166,6 @@ button[type=submit]:hover{
      justify-content: flex-end;
   }  
 } 
+h5{
+  color: blueviolet;
+}

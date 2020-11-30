@@ -1,5 +1,9 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import Resume from "../images/Raufun_Resume.pdf";
+import ResumeIcon from "../images/resume-color-80.png";
+import GithubIcon from "../images/GitHub-icon.png";
+import LinkedinIcon from "../images/LI-In-Bug.png";
 
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
 function Navbar() {
@@ -35,7 +39,7 @@ function Navbar() {
         </li>
         <a
           className="flex-sm-fill text-sm-center nav-link resume"
-          href={require("../images/Raufun_Resume.pdf")}
+          href={Resume}
         //   onClick={() => window.open("../assets/images/jane-doe-resume.pdf")}
         //   href={Resume}
         // onClick={() => window.open(Resume)}
@@ -43,7 +47,7 @@ function Navbar() {
           rel="noopener noreferrer"
         >
           <img
-            src={require("../images/resume-color-80.png")}
+            src={ResumeIcon}
             alt="resume"
             height="28"
             width="28"
@@ -58,7 +62,7 @@ function Navbar() {
           rel="noopener noreferrer"
         >
           <img
-            src={require("../images/GitHub-icon.png")}
+            src={GithubIcon}
             alt="GitHub"
             height="25"
             width="25"
@@ -73,7 +77,7 @@ function Navbar() {
           rel="noopener noreferrer"
         >
           <img
-            src={require("../images/LI-In-Bug.png")}
+            src={LinkedinIcon}
             alt="Linkedin"
             height="24"
             width="29"
